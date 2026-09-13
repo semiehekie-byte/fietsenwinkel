@@ -1,5 +1,8 @@
 # Retrospective
 
+Sem Hekman
+97136562
+
 ## Projectgegevens
 
 - Projectnaam: Fietsenwinkel
